@@ -28,15 +28,15 @@
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org",
-      "value": ""
+      "value": "15637856"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org",
-      "value": ""
+      "value": "521a26ceed82a85420d580989373d817"
     },
     "ROMEOBOT_SESSION": {
       "description": "Get this value from @rjssgbot . Refer to Repo for more info.",
-      "value": ""
+      "value": "1BVtsOG4Bu6TPWIFDBjpvyJfaua_av33fqW7oWxllshjhptd7FmSUzVQvE7EcBh-DwivnjYUdHf2Gz5rtSnooamYinVk21yL29J7qf5VOaqyoH4iFXoEx9XgYycUeBO6BPSsNlx4jvinj4tjBPbWG3PT6EsZOrmf7I_QODuy4ecmbs4KaoqPQXsxX90t1SawXM-y7U-KM1BrNSdVZpXNOP71yju2boMpVHxyWCO-wOkfOcCvx0td2ytlgbfvfwLj34436VEB05JEPGeuRXygPmtany1-aiQCM7xkaSvVh-SY9SmJgEnH62gbp7WydToJFKCCGeGtpYRgsNI61mwbAuwWR1NJuBVU="
     },
     "HEROKU_API_KEY": {
       "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API. Required for updater to work.",
@@ -48,7 +48,7 @@
     },
     "BOT_TOKEN": {
       "description": "Make a bot from @BotFather and paste the bot token here.",
-      "value": ""
+      "value": "5824879205:AAHLj_ub7Xy1zs2bKa-wNKLtNeL_9tjQxtU"
     }
   },
   "addons": [{
